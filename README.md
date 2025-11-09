@@ -119,8 +119,6 @@ npm install --save-dev eslint-plugin-regexp
 npm install --save-dev eslint-plugin-node
 ```
 
-## If you want more tools, go there -> [More tools](https://github.com/marlenamakosza/JS-TS-ultimate-config-selected-tool)
-
 ## 👩‍💻 Author
 
 Made by [Marlena Makosza](https://marlenamakosza.com)
